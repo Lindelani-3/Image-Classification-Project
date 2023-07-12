@@ -1,1 +1,3 @@
-# Image-Classification-Project
+# CIFAR10-Classification
+
+For our project we will be looking at the task of image classification using the CIFAR-10 dataset. Researchers often use the CIFAR-10 dataset to benchmark their algorithms and compare their performance against state-of-the-art methods. It has become a standard dataset for evaluating the effectiveness of various deep learning architectures and techniques. In this project, we wish to investigate the difference in performance between two neural network architectures, Convolutional neural networks (CNNs) and Traditional neural networks (TNNs), to understand how their structures are adapted for image classification. We also explore some techniques on how to make our models more accurate.
